@@ -1,0 +1,28 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Roboto", "Arial";
+}
+
+#heading-container {
+  background-color: white;
+  box-shadow: 0px 0px 3px #777;
+  border-radius: 7.5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+#heading-container p {
+  margin: 0;
+}
+
+#block1-container {
+  background-color: white;
+  box-shadow: 0px 0px 3px #777;
+  border-radius: 7.5px;
+  padding: 10px;
+}
