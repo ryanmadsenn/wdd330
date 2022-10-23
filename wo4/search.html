@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script defer src="search.js"></script>
+    <title>Search</title>
+  </head>
+  <body>
+    <form name="search" action="/search">
+      <input name="searchInput" />
+      <button type="submit">Search</button>
+    </form>
+
+    <form id="hero">
+      <label for="heroName"
+        >Name:
+        <input
+          type="text"
+          id="heroName"
+          name="heroName"
+          autofocus
+          placeholder="Your Super Hero Name"
+          maxlength="32"
+        />
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
