@@ -3,6 +3,10 @@
     {
       "label": "Week 1: Story Editor",
       "url": "story-editor/"
+    },
+    {
+      "label": "Week 6: To-do Webapp",
+      "url": "todo/"
     }
   ]
 }
